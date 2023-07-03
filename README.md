@@ -25,5 +25,5 @@
    kubectl get pods  
    kubectl logs <pod_id>  
    kubectl get svc  
-9. helm upgrade jenkins jenkins/jenkins -f values.yaml
+9. helm upgrade jenkins jenkins/jenkins -f values.yaml  
    kubectl get svc jenkins  
